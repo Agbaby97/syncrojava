@@ -5,6 +5,6 @@ console.log("fourth task");
 // for(let i=0;i<100000; i++ ){
 //     console.log("deleyyy")
 // }
+console.log("https://jsonplaceholder.typicode.com./users")
 
-setTimeout
 
