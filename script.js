@@ -8,3 +8,25 @@ console.log("fourth task");
 console.log("https://jsonplaceholder.typicode.com./users")
 
 
+// try catch statement
+//try catch finally
+
+console.log('i am aboy')
+setTimeout( ()=>{
+    console.log('how are you')
+},5000) 
+console.log('i am fine')
+    
+
+let movie = fetch(url)
+console.log(movies)
+try{
+    fetch(url);
+}catch(err) {
+    console.log(err);
+}finally;
+
+async function getALLPosts () {
+    let blogPosts =await fetch("https://jsonplaceholder.typicode.com/posts");
+    let realBlogData
+}
